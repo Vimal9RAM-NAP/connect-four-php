@@ -60,7 +60,7 @@ h1 span {
     font-size: 14px;
 }
 
-/* Scoreboard */
+
 
 .scoreboard {
     display: grid;
@@ -114,7 +114,7 @@ h1 span {
     background: var(--yellow);
 }
 
-/* Game Status */
+
 
 .status {
     text-align: center;
@@ -125,7 +125,7 @@ h1 span {
     font-size: 17px;
 }
 
-/* Game Board */
+
 
 .game-area {
     background: var(--surface);
@@ -195,7 +195,7 @@ h1 span {
     box-shadow: inset 0 -4px 0 rgba(0, 0, 0, 0.12);
 }
 
-/* Controls */
+
 
 .controls {
     display: flex;
@@ -241,7 +241,7 @@ button:focus-visible {
     outline-offset: 3px;
 }
 
-/* Mobile */
+
 
 @media (max-width: 480px) {
     .player {
